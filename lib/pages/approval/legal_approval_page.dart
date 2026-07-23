@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../../provider/legal_provider.dart';
-import '../legal_document/legal_document_detail_page.dart';
+import '../document/document_detail_page.dart';
 
 class LegalApprovalPage
     extends StatelessWidget {

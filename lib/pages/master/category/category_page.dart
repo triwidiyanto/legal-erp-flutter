@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../../provider/category_provider.dart';
+import '../../../provider/category_provider.dart';
 import 'add_category_page.dart';
 import 'edit_category_page.dart';
 

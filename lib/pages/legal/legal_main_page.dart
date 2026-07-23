@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 import '../approval/legal_approval_page.dart';
 import '../contract/expired_contract_page.dart';
 import '../dashboard/dashboard_page.dart';
-import '../legal_document/legal_document_list_page.dart';
-import '../master/category_page.dart';
-import '../notification/legal_notification_page.dart';
+import '../document/document_list_page.dart';
+import '../master/category/category_page.dart';
+import '../notification/notification_page.dart';
 
 class LegalMainPage extends StatefulWidget {
   const LegalMainPage({super.key});

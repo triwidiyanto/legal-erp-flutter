@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../../models/category_model.dart';
-import '../../provider/category_provider.dart';
+import '../../../models/category_model.dart';
+import '../../../provider/category_provider.dart';
 
 class AddCategoryPage extends StatefulWidget {
   const AddCategoryPage({super.key});

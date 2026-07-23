@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:legal/pages/legal_document/legal_document_detail_page.dart';
-import 'package:legal/pages/legal_document/upload_document_page.dart';
+import 'package:legal/pages/document/document_detail_page.dart';
+import 'package:legal/pages/document/upload_document_page.dart';
 import 'package:legal/provider/legal_provider.dart';
 import 'package:provider/provider.dart';
 
